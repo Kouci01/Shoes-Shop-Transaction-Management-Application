@@ -1,0 +1,16 @@
+import MainframeView.MainframeView;
+public class main {
+
+	public main() {
+//		EmployeeController.viewManageEmployeeForm();
+		
+		// Main kalo ud bener semua
+		new MainframeView();
+	}
+
+	public static void main(String[] args) {
+		new main();
+
+	}
+
+}
